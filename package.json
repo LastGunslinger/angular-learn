@@ -1,4 +1,12 @@
 {
+  "repository": {
+    "type": "git",
+    "url": "github:LastGunslinger/angular-learn"
+  },
+  "author": {
+    "name": "Reginald Johnson",
+    "email": "reginald.johnson@cpa.texas.gov"
+  },
   "name": "angular-learn",
   "version": "0.0.0",
   "scripts": {
